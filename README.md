@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @the1ullneversee
-- 👀 I’m interested in C# Development, and Artificial Intelligence
+- 👀 I’m interested in C# Development, PYthon, and Artificial Intelligence
 - 🌱 I’m currently learning AI at the Uni of Bath.
 - 💞️ I’m looking to collaborate on C# projects, and AI projects.
 - 📫 How to reach me (ttk_tech@outlook.com)
