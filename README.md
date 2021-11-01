@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @the1ullneversee
-- 👀 I’m interested in C# Development, Python, and Artificial Intelligence
-- 🌱 I’m currently learning AI at the Uni of Bath.
+- 👋 Hi, I’m @the1ullneversee AKA Thomas Knowles.
+- 👀 I’m interested in C#, Python, and Artificial Intelligence.
+- 🌱 I’m currently learning AI at the University of Bath.
 - 💞️ I’m looking to collaborate on C# projects, and AI projects.
 - 📫 How to reach me (ttk_tech@outlook.com)
 
